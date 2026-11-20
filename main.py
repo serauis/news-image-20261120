@@ -3,11 +3,12 @@
 "Sum up 20 November's world news in one image."
 
 Writes the entry image to /output/entry.png. The image ships in this
-repository as entry.png: a 1024x1024 newspaper front page carrying 42
+repository as entry.png: a 1024x1024 newspaper front page carrying 54
 sourced stories of Friday 20 November 2026 — Russia's 510-weapon
 barrage on Kyiv, Asia's worst market week since 2020, Cyclone Akvan's
-landfall in Odisha, GTA VI's record $3.79bn first day, and 38 more —
-with a UTC timeline strip and a date-check footer. Copying a fixed
+landfall in Odisha, GTA VI's record $3.79bn first day, and 50 more —
+with a UTC timeline strip, an IN BRIEF numbers strip and a date-check
+footer. Copying a fixed
 file keeps the program offline and byte-for-byte deterministic
 across runs, as required. See SOURCES.md for the reporting behind
 every story on the page.

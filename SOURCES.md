@@ -48,7 +48,7 @@ dropped.
     $15bn; comprehensive economic partnership (CEPA) negotiations launched.
     Reuters, Xinhua.
 
-## ALSO items (30)
+## ALSO items (36)
 House rebels reach 218 signatures for an Epstein-files vote (Nexus Europa) ·
 White House fires its cyber director (Euronews) · Estonia votes to close its
 Russian border after a GRU-linked sabotage attack (Euronews) · Italy fines
@@ -72,6 +72,30 @@ tax-credit programme (Morning Briefing) · Hegseth in Ecuador (Euronews) ·
 Myanmar "disappointed" by Thursday's ICJ ruling (LA Post) · Vatican Christmas
 tree raised (Euronews) · Antarctic "supermountains" (Euronews) · Japan core
 CPI above 2%, December BoJ hike case (Reuters) · Hang Seng −1.9% (AP).
+
+## ALSO additions in v5 (6)
+Shenzhen three-way summit — Trump, Xi and Putin's first three-way summit
+issues a four-point peace declaration (AP, Reuters summit coverage) ·
+Copenhagen — the Folketing consents to the trilateral US–Denmark–Greenland
+security pact (AP, Reuters) · Yenne — dozens missing after a migrant boat
+carrying about 100 people capsizes off Senegal; search operations reported
+through Thursday into Friday (Reuters, AP, AFP) · Vienna — IAEA chief
+Grossi tells the Board of Governors North Korea is expanding uranium
+enrichment at Yongbyon (Reuters) · Gaza — Israeli drone strikes kill at
+least seven Palestinians in central Gaza on Friday (Al Jazeera, 20 Nov
+18:54 UTC) · Sydney — Xi hails a "comprehensive turnaround" in
+China–Australia ties after talks with Albanese; the item adds Oceania,
+taking the page to 7 regions (Reuters, 20 Nov).
+
+## IN BRIEF strip (6 one-liners, new in v5)
+Los Angeles — M4.2 earthquake wakes the city at 3:25 a.m., no damage
+(USGS via USA Today) · Madang — M5.1 earthquake 62 km NW of Madang, PNG,
+05:17 UTC (GFZ) · Washington — Senate passes the energy-permitting bill
+62–33 (Senate vote, 20 Nov) · Brussels — EU adopts €1bn in military aid
+for Ukraine via the European Peace Facility (EU announcement, 20 Nov) ·
+London — UK pledges 1,000+ drones for Ukraine in a £260m package (UK
+government announcement, 20 Nov) · Sydney — marathon champion Jepchirchir
+banned 3 years for doping and stripped of her Sydney title (ABC Australia).
 
 ## UTC timeline (sourced times only)
 ~02:00 bridges hit (Kyiv ≈04:00 EET, marked ~) · 02:30 Akvan landfall window
