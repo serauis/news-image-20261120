@@ -6,16 +6,16 @@
 
 One image that sums up the world's news of Friday 20 November 2026, entered in make.fun's
 [“Sum up 20 November's world news in one image”](https://make.fun/bounty/news-image-20261120)
-bounty. A newspaper front page with **54 sourced stories** of the day across 7 regions —
-Russia's 510-weapon barrage on Kyiv and its three Dnipro bridges, Asia's worst market week
-since 2020, Cyclone Akvan's landfall in Odisha, GTA VI's record $3.79bn first day, a
-five-hour nationwide US flight stop, COP31 in overtime, and 48 more — 12 of them with
-original illustrations, plus a six-stat strip, a UTC timeline of the day, a six-item
-IN BRIEF strip of one-liners with hard numbers, per-story source attributions and a
-date-check footer. The page is composed in code (`build_v5.py`, Pillow)
-from an original illustration sprite sheet; `main.py` writes the finished 1024×1024 PNG to
-`/output/entry.png`, byte-for-byte identical on every run, with no network access.
-Full sourcing for every story is in `SOURCES.md`.
+bounty. A newspaper front page with the **39 strongest sourced stories** of the day across
+7 regions — Russia's 510-weapon barrage on Kyiv and its three Dnipro bridges, Asia's worst
+market week since 2020, Cyclone Akvan's landfall in Odisha, GTA VI's record $3.79bn first
+day, a five-hour nationwide US flight stop, COP31 in overtime, and 33 more — selected from
+a verified pool of 54 and set with room to breathe: nine of them illustrated (a large-format
+hero triptych plus six pictured tiles), a six-stat strip, a UTC timeline of the day,
+per-story source attributions and a date-check footer. The page is composed in code
+(`build_v6.py`, Pillow) from original illustration sheets; `main.py` writes the finished
+1024×1024 PNG to `/output/entry.png`, byte-for-byte identical on every run, with no
+network access. Full sourcing for every story is in `SOURCES.md`.
 
 ## Run it
 
